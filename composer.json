@@ -1,5 +1,5 @@
 {
-  "name"       : "webfox/silverstripe-services",
+  "name"       : "TcFxGt4AGE/silverstripe-services",
   "type"       : "silverstripe-module",
   "description": "A silverstripe service module",
   "require"    : {
@@ -8,8 +8,8 @@
   "license"    : "MIT",
   "authors"    : [
     {
-      "name" : "Webfox Developers",
-      "email": "developer@webfox.co.nz"
+      "name" : "Derek Kaijser",
+      "email": "derek@kaijser.net"
     }
   ],
   "extra"      : {
