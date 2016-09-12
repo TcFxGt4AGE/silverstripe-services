@@ -10,11 +10,6 @@ https://github.com/peavers/silverstripe-font-awesome
 
 ## How to use
 
-### Install through composer
-```bash
-composer require tcfxgt4age/silverstripe-services
-```
-
 ### Apply to any pagetype you want the "Services" tab to appear on
 (Can be applied to multiple page types, just change 'Page' to whatever page you want Services on)
 ```yaml
